@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8144" started-at="2021-02-11T20:11:55Z" finished-at="2021-02-11T20:12:03Z">
+  <suite name="Default suite" duration-ms="6856" started-at="2021-02-11T20:54:30Z" finished-at="2021-02-11T20:54:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8144" started-at="2021-02-11T20:11:55Z" finished-at="2021-02-11T20:12:03Z">
+    <test name="Default test" duration-ms="6856" started-at="2021-02-11T20:54:30Z" finished-at="2021-02-11T20:54:37Z">
       <class name="samplejenkins.Amazon_logo">
-        <test-method status="PASS" signature="TestAMZ()[pri:0, instance:samplejenkins.Amazon_logo@f5e5e3]" name="TestAMZ" duration-ms="8102" started-at="2021-02-11T14:11:55Z" finished-at="2021-02-11T14:12:03Z">
+        <test-method status="PASS" signature="TestAMZ()[pri:0, instance:samplejenkins.Amazon_logo@f5e5e3]" name="TestAMZ" duration-ms="6842" started-at="2021-02-11T14:54:30Z" finished-at="2021-02-11T14:54:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestAMZ -->

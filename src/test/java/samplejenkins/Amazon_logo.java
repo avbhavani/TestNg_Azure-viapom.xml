@@ -5,11 +5,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class Amazon_logo {
 	
 	@Test
 
 	public void TestAMZ() {
+		//WebDriverManager.chromedriver().setup();
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\avsub\\Downloads\\chromedriver_87\\chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
