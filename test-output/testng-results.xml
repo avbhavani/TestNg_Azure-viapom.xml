@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="6966" started-at="2021-02-11T19:37:32Z" finished-at="2021-02-11T19:37:39Z">
+  <suite name="Default suite" duration-ms="8144" started-at="2021-02-11T20:11:55Z" finished-at="2021-02-11T20:12:03Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="6966" started-at="2021-02-11T19:37:32Z" finished-at="2021-02-11T19:37:39Z">
-      <class name="samplejenkins.SampleTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:samplejenkins.SampleTest@100a15d]" name="test1" duration-ms="9" started-at="2021-02-11T13:37:32Z" finished-at="2021-02-11T13:37:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-      </class> <!-- samplejenkins.SampleTest -->
+    <test name="Default test" duration-ms="8144" started-at="2021-02-11T20:11:55Z" finished-at="2021-02-11T20:12:03Z">
       <class name="samplejenkins.Amazon_logo">
-        <test-method status="PASS" signature="TestAMZ()[pri:0, instance:samplejenkins.Amazon_logo@5ca609]" name="TestAMZ" duration-ms="6938" started-at="2021-02-11T13:37:32Z" finished-at="2021-02-11T13:37:39Z">
+        <test-method status="PASS" signature="TestAMZ()[pri:0, instance:samplejenkins.Amazon_logo@f5e5e3]" name="TestAMZ" duration-ms="8102" started-at="2021-02-11T14:11:55Z" finished-at="2021-02-11T14:12:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestAMZ -->
       </class> <!-- samplejenkins.Amazon_logo -->
-      <class name="samplejenkins.RemoveDupsFromlist">
-        <test-method status="PASS" signature="AddDupsToAaary()[pri:0, instance:samplejenkins.RemoveDupsFromlist@e2cbe0]" name="AddDupsToAaary" duration-ms="1" started-at="2021-02-11T13:37:32Z" finished-at="2021-02-11T13:37:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- AddDupsToAaary -->
-      </class> <!-- samplejenkins.RemoveDupsFromlist -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

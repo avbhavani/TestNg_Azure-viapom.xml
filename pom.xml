@@ -24,9 +24,10 @@
                <suiteXmlFiles>
               <suiteXmlFile>testng.xml</suiteXmlFile>
                </suiteXmlFiles>
+               <!--  
                <systemPropertyVariables>
                   <browserName>chrome</browserName>
-               </systemPropertyVariables>
+               </systemPropertyVariables>-->
             </configuration>
          </plugin>
 </plugins>
