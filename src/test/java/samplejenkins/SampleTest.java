@@ -8,6 +8,7 @@ public class SampleTest {
 	
 	public void test1() {
 		System.out.println("sample test1");
+		System.out.println("updated sample tset");
 	}
 
 }
